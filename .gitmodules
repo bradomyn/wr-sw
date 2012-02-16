@@ -1,0 +1,3 @@
+[submodule "sflow"]
+	path = sflow
+	url = git@github.com:bradomyn/sflowtest.git
